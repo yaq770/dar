@@ -3,4 +3,5 @@
 void main(List<String> arguments) {
   //print('Hello world: ${ncall.calculate()}!');
   pragma("name");
+  print("object");
 }
