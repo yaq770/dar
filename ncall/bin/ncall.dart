@@ -1,5 +1,6 @@
-import 'package:ncall/ncall.dart' as ncall;
+//import "C:/Users/DELL/Desktop/dart/clas.dart" as ncall;
 
 void main(List<String> arguments) {
-  print('Hello world: ${ncall.calculate()}!');
+  //print('Hello world: ${ncall.calculate()}!');
+  pragma("name");
 }

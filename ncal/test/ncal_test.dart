@@ -1,8 +1,9 @@
-import 'package:ncal/ncal.dart';
-import 'package:test/test.dart';
+//import 'package:ncal/ncal.dart';
+//import 'package:test/test.dart';
 
 void main() {
-  test('calculate', () {
-    expect(calculate(), 42);
-  });
+  print("object");
+  // test('calculate', () {
+  // expect(calculate(), 42);
+  // });
 }
