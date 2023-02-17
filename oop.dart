@@ -10,4 +10,12 @@ void main(List<String> args) {
   String? f = 'ali';
   print(f);
   print(f.length);
+  String n = "yaqop";
+  int a = 20;
+  print(stu(n, a));
+}
+
+stu(String n, int a) {
+  print(n);
+  print(a);
 }
